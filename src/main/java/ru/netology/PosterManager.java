@@ -6,10 +6,6 @@ public class PosterManager {
 
     private int limit = 5;
 
-    public int getLimit() {
-        return limit;
-    }
-
     public void setLimit(int limit) {
         this.limit = limit;
     }
